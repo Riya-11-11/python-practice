@@ -11,4 +11,4 @@ elif age < 18:
 if day == "wednesday":
     price = price-2
 
-print("Your ticket price is: ${price}")
+print(f"Your ticket price is: ${price}")
